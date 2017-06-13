@@ -933,6 +933,26 @@
         <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
+    <option name="EJS_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="EJS_INCLUDE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="EJS_OPEN">
+      <value />
+    </option>
+    <option name="EJS_OPEN_EQ">
+      <value />
+    </option>
+    <option name="EJS_OPEN_EQ_GENERATOR">
+      <value />
+    </option>
     <option name="EL.BOUNDS">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
