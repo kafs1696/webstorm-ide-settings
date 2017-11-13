@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/modules/project-management/project-management.new.controller.js - [upp-webapp]'" />
-    <option name="defaultScopeName" value="File '.../app/modules/project-management/project-management.new.controller.js - [upp-webapp]'" />
+    <option name="customScope" value="MyProject" />
+    <option name="defaultScopeName" value="MyProject" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/modules/project-management/project-management.new.controller.js - [upp-webapp]'" />
+    <option name="SEARCH_SCOPE" value="MyProject" />
   </component>
 </application>
